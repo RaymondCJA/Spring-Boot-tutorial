@@ -1,0 +1,1 @@
+Validation API does not work properly (javax.validation)
